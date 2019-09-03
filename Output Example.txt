@@ -1,0 +1,40 @@
+2019-09-03 03:41:39.875025
+
+    ########################
+    ** Most Popular Articles **
+    ########################
+
+        Article Name     -->    Number ov Views
+--------------------------------------------------
+Candidate is jerk, alleges rival  --->  338647
+Bears love berries, alleges bear  --->  253801
+Bad things gone, say good people  --->  170098
+Goats eat Google's lawn  --->  84906
+Trouble for troubled troublemakers  --->  84810
+Balloon goons doomed  --->  84557
+There are a lot of bears  --->  84504
+Media obsessed with bears  --->  84383
+--------------------------------------------------
+
+
+    ########################
+    ** Most Popular Author **
+    ########################
+
+        Author   -->    Number ov Views
+--------------------------------------------------
+Ursula La Multa  --->  507594
+Rudolf von Treppenwitz  --->  423457
+Anonymous Contributor  --->  170098
+Markoff Chaney  --->  84557
+--------------------------------------------------
+
+
+    ########################
+    ** Request Errors **
+    ########################
+
+        Day      -->    Over 1% Errored Requests
+--------------------------------------------------
+2016-07-17 00:00:00+00:00  --->  2.26
+--------------------------------------------------
